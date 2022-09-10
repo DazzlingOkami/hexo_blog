@@ -1,0 +1,110 @@
+<?xml version="1.0" encoding="UTF-8" standalone="no"?>
+<!DOCTYPE svg PUBLIC "-//W3C//DTD SVG 1.1//EN" "http://www.w3.org/Graphics/SVG/1.1/DTD/svg11.dtd">
+<!-- 由 Microsoft Visio, SVG Export 生成 内存.svg 页-1 -->
+<svg xmlns="http://www.w3.org/2000/svg" xmlns:xlink="http://www.w3.org/1999/xlink" xmlns:ev="http://www.w3.org/2001/xml-events"
+		width="9.58159in" height="2.34263in" viewBox="0 0 689.874 168.669" xml:space="preserve" color-interpolation-filters="sRGB"
+		class="st11">
+	<style type="text/css">
+	<![CDATA[
+		.st1 {fill:url(#grad0-4);stroke:#d06d29;stroke-width:0.75}
+		.st2 {fill:url(#grad0-8);stroke:#61973d;stroke-width:0.75}
+		.st3 {fill:none;stroke:none;stroke-width:0.25}
+		.st4 {fill:#5b9bd5;font-family:Calibri;font-size:1.00001em}
+		.st5 {font-family:黑体;font-size:1em}
+		.st6 {fill:#ffffff;stroke:#5b9bd5;stroke-width:0.75}
+		.st7 {fill:#5b9bd5;font-family:黑体;font-size:1.00001em}
+		.st8 {stroke:#4f88bb;stroke-width:0.75}
+		.st9 {marker-end:url(#mrkr4-44);stroke:#5b9bd5;stroke-linecap:round;stroke-linejoin:round;stroke-width:1}
+		.st10 {fill:#5b9bd5;fill-opacity:1;stroke:#5b9bd5;stroke-opacity:1;stroke-width:0.28409090909091}
+		.st11 {fill:none;fill-rule:evenodd;font-size:12px;overflow:visible;stroke-linecap:square;stroke-miterlimit:3}
+	]]>
+	</style>
+
+	<defs id="Patterns_And_Gradients">
+		<linearGradient id="grad0-4" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#fbece7" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#fdf5f3" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-8" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#ebf1e8" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#f5f8f4" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
+		</linearGradient>
+		<linearGradient id="grad0-27" x1="0" y1="0" x2="1" y2="0" gradientTransform="rotate(60 0.5 0.5)">
+			<stop offset="0" stop-color="#e9eff7" stop-opacity="1"/>
+			<stop offset="0.24" stop-color="#f4f7fb" stop-opacity="1"/>
+			<stop offset="0.54" stop-color="#feffff" stop-opacity="1"/>
+		</linearGradient>
+	</defs>
+	<defs id="Markers">
+		<g id="lend4">
+			<path d="M 2 1 L 0 0 L 2 -1 L 2 1 " style="stroke:none"/>
+		</g>
+		<marker id="mrkr4-44" class="st10" refX="-7.04" orient="auto" markerUnits="strokeWidth" overflow="visible">
+			<use xlink:href="#lend4" transform="scale(-3.52,-3.52) "/>
+		</marker>
+	</defs>
+	<g>
+		<title>页-1</title>
+		<g id="shape1-1" transform="translate(42.7697,-67.5859)">
+			<title>矩形</title>
+			<rect x="0" y="134.653" width="581.102" height="34.0157" class="st1"/>
+		</g>
+		<g id="shape2-5" transform="translate(68.2815,-67.5859)">
+			<title>矩形.2</title>
+			<rect x="0" y="134.653" width="527.244" height="34.0157" class="st2"/>
+		</g>
+		<g id="shape3-9" transform="translate(0.25,-124.121)">
+			<title>工作表.3</title>
+			<desc>32字节对齐位置</desc>
+			<rect x="0" y="148.669" width="152" height="20" class="st3"/>
+			<text x="33.92" y="162.66" class="st4">32<tspan class="st5">字节对齐位置</tspan></text>		</g>
+		<g id="shape5-13" transform="translate(-125.899,61.3981) rotate(-90)">
+			<title>普通箭头</title>
+			<path d="M0 168.67 L11.34 163 L11.34 165.83 L20.41 165.83 L20.41 168.67 L20.41 171.5 L11.34 171.5 L11.34 174.34 L0 168.67
+						 Z" class="st6"/>
+		</g>
+		<g id="shape6-15" transform="translate(514.392,-129.948)">
+			<title>工作表.6</title>
+			<desc>32字节对齐位置</desc>
+			<rect x="0" y="148.669" width="152" height="20" class="st3"/>
+			<text x="33.92" y="162.66" class="st4">32<tspan class="st5">字节对齐位置</tspan></text>		</g>
+		<g id="shape7-19" transform="translate(455.203,61.3981) rotate(-90)">
+			<title>普通箭头.7</title>
+			<path d="M0 168.67 L11.34 163 L11.34 165.83 L20.41 165.83 L20.41 168.67 L20.41 171.5 L11.34 171.5 L11.34 174.34 L0 168.67
+						 Z" class="st6"/>
+		</g>
+		<g id="shape8-21" transform="translate(255.904,-129.948)">
+			<title>工作表.8</title>
+			<desc>期望操作的内存区域</desc>
+			<rect x="0" y="148.669" width="152" height="20" class="st3"/>
+			<text x="22" y="162.66" class="st7">期望操作的内存区域</text>		</g>
+		<g id="shape9-24" transform="translate(623.872,-52.3756) scale(-1,1)">
+			<title>侧边大括号</title>
+			<path d="M0 156.29 L0 156.29 A12.3754 12.3754 -180 0 0 12.38 168.67 L278.18 168.67 A12.3754 12.3754 0 0 1 290.55 181.04
+						 A12.3754 12.3754 0 0 1 302.93 168.67 L568.73 168.67 A12.3754 12.3754 -180 0 0 581.1 156.29 L581.1 156.29"
+					class="st8"/>
+		</g>
+		<g id="shape10-29" transform="translate(68.2815,221.045) scale(1,-1)">
+			<title>侧边大括号.10</title>
+			<path d="M0 156.29 L0 156.29 A12.3754 12.3754 -180 0 0 12.38 168.67 L248.41 168.67 A12.3754 12.3754 0 0 1 260.79 181.04
+						 A12.3754 12.3754 0 0 1 273.16 168.67 L514.87 168.67 A12.3754 12.3754 -180 0 0 527.24 156.29 L527.24 156.29"
+					class="st8"/>
+		</g>
+		<g id="shape11-33" transform="translate(257.321,-16.4048)">
+			<title>工作表.11</title>
+			<desc>实际操作的内存区域</desc>
+			<rect x="0" y="148.669" width="152" height="20" class="st3"/>
+			<text x="22" y="162.66" class="st7">实际操作的内存区域</text>		</g>
+		<g id="shape12-36" transform="translate(626.151,-67.5859)">
+			<title>工作表.12</title>
+			<desc>溢出区域</desc>
+			<rect x="0" y="148.669" width="63.4727" height="20" class="st3"/>
+			<text x="7.74" y="162.66" class="st7">溢出区域</text>		</g>
+		<g id="shape13-39" transform="translate(630.959,-84.5938)">
+			<title>动态连接线</title>
+			<path d="M0 175.76 L-8.55 175.76" class="st9"/>
+		</g>
+	</g>
+</svg>
