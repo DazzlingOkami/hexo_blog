@@ -193,7 +193,7 @@ extern struct list_node pt_pool;
  * }
  * @endcode
  */
-#define OS_TASK_RUN(func)                                \
+#define OS_TASK_RUN(func)                            \
     do                                               \
     {                                                \
         static pt_item_t pt_##_func;                 \
@@ -205,7 +205,7 @@ extern struct list_node pt_pool;
 #endif
 ```
 
-这里定义任务结构pt_item_t，相比与原生PT，每个任务会多占用12字节的RAM，此外就没有多余的开销了。使用OS_TASK_RUN()方法可以创建一个新的任务，它可以将PT任务添加到任务列表中。OS_SCHEDULE()方法用于调度所有的PT任务，它需要放入到一个循环中一直执行，当某个任务执行推出后可以将它从任务列表中删除。
+这里定义任务结构pt_item_t，相比与原生PT，每个任务会多占用12字节的RAM，此外就没有多余的开销了。使用OS_TASK_RUN()方法可以创建一个新的任务，它可以将PT任务添加到任务列表中。OS_SCHEDULE()方法用于调度所有的PT任务，它需要放入到一个循环中一直执行，当某个任务执行退出后可以将它从任务列表中删除。
 
 这里存在一些缺陷，任务的入口不能传递参数，如果一定要实现这个功能那也是很容易的，对pt_item_t中的任务签名做调整即可。一个PT任务函数不能同时创建两个与之相关联的任务，这主要是OS_TASK_RUN()的实现导致的，我想大部分PT任务函数都不具有重入的特性，所以看起来也无伤大雅。
 
