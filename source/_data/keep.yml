@@ -18,7 +18,7 @@ base_info:
   author: 耀眼的大神
 
   # Author avatar, You can use local image path or image link
-  avatar: /images/face.jpg
+  avatar: /images/face.webp
 
   # Website LOGO, You can use local image path or image link
   #logo: /images/logo.svg
