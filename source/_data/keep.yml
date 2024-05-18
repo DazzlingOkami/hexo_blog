@@ -145,6 +145,9 @@ post:
     img_link:            # Image link for the payment QR code
     text:                # Custom reward text, Can be null
 
+  # Image alignment  
+  img_align: center
+
 # ---------------------------------------------------------------------------------------
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/code_block.html
 # ---------------------------------------------------------------------------------------
