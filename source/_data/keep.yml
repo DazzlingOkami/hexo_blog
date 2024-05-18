@@ -105,6 +105,9 @@ home:
   # Website announcement in home page
   announcement:
 
+  # Article date type
+  post_datetime: created
+
 # ---------------------------------------------------------------------------------------
 # Docs: https://keep-docs.xpoet.cn/basis/configuration-guide/post.html
 # ---------------------------------------------------------------------------------------
